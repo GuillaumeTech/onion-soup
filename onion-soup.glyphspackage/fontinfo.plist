@@ -1,0 +1,80 @@
+{
+.appVersion = "3135";
+.formatVersion = 3;
+date = "2026-05-06 02:02:43 +0000";
+familyName = "Onion Soup";
+fontMaster = (
+{
+id = m01;
+metricValues = (
+{
+over = 16;
+pos = 800;
+},
+{
+over = 16;
+pos = 700;
+},
+{
+over = 16;
+pos = 500;
+},
+{
+over = -16;
+},
+{
+over = -16;
+pos = -300;
+},
+{
+over = -16;
+},
+{
+}
+);
+name = Regular;
+userData = {
+GSCornerRadius = 30;
+};
+visible = 1;
+}
+);
+kerningLTR = {
+m01 = {
+o = {
+i = -153;
+};
+};
+};
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+},
+{
+}
+);
+unitsPerEm = 1000;
+userData = {
+GSDimensionPlugin.Dimensions = {
+m01 = {
+};
+};
+};
+versionMajor = 1;
+versionMinor = 0;
+}
